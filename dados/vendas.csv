@@ -1,0 +1,11 @@
+id_venda,id_cliente,produto,valor
+1,1,Notebook,3500
+2,2,Mouse,120
+3,1,Teclado,250
+4,3,Monitor,1200
+5,4,Notebook,3800
+6,5,Headset,300
+7,2,Monitor,1100
+8,3,Mouse,150
+9,5,Notebook,4000
+10,1,Headset,350
